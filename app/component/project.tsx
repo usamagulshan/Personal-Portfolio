@@ -34,8 +34,7 @@ function Project() {
                     Amazon.com Clone
                   </h1>
                   <p className="leading-relaxed">
-                    A simple and attractive clone of Amazon.com built with
-                    React.
+                    A simple and attractive clone of Amazon&#39;s website built with React.
                   </p>
                   <Link
                     target="_blank"
