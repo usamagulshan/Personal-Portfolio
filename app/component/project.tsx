@@ -22,7 +22,7 @@ function Project() {
                 <Image
                   alt="Amazon Clone"
                   className="absolute inset-0 w-full h-full object-cover object-center"
-                  src="/assets/project1.png" // Image located in the public folder
+                  src="/assets/amazon.PNG" // Image located in the public folder
                   width={300}
                   height={300}
                 />
@@ -52,7 +52,7 @@ function Project() {
                 <Image
                   alt="Easy Life ToDo App"
                   className="absolute inset-0 w-full h-full object-cover object-center"
-                  src="/assets/project2.png" // Image located in the public folder
+                  src="/assets/todo.PNG" // Image located in the public folder
                   width={300}
                   height={300}
                 />
