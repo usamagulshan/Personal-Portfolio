@@ -12,7 +12,7 @@ function Project() {
               My Projects
             </h1>
             <p className="lg:w-2/3 mx-auto leading-relaxed text-base">
-              Here are some of the projects I've recently completed!
+              Here are some of the projects I have recently completed!
             </p>
           </div>
           <div className="flex flex-wrap -m-8">
